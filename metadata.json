@@ -1,5 +1,5 @@
 {
   "version": "1.1.2",
-  "firmware": "firmware_v1.1.1.bin",
+  "firmware": "wifi_ota.bin",
   "size": 5120
 }
